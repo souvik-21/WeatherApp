@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\cdba209f63b6f9bce46a8f3e46117c90\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Souvik Kar\.gradle\caches\transforms-3\223b5b5afffd82e5115a1ae3be7c095e\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cfdc6dff071fc329bd23055f50a0f4a\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\ff1ee2c13c026074f30816f107cce194\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1d6aaa93075b0555027b4de81b9b700a\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1b6b92d5ecb3f695923f620356c86564\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\3d8b3864a5a7d15e7dd56e66575a1630\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f447761f1d2a20db9c38b014abe9d8e4\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\6e21913bf78215f9b5bf45e27bf1c45f\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cca0fef424a54a7faf455dabda67ca4\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\2389a8b9b45744de18ffa23331f3d4e5\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\403f144436fd435577e72893d028597e\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\ace0ed459e4c719363d1966b655b65d3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\04be6288f576f3694a3edafd194dcafd\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\4f65858ab6d0edd0ec9297104d6cbfcc\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\32554eb0fd01e8ce273d1f7995499556\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a6a0ef81db73df9e4cf2fb5df4ecf246\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\3710be4ae84c93516a059500f6cd9f5f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\6e50cd4b825eb0080c5d8e0c22308342\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a8ae159eef6139059e1dff2047e6b02d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\d3b88f60ffc448ffb7fc0fa2ab74690a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a771ddc76a7af1f2104b5299c3da9f2c\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f64d32a8fa7b7dfee866f2afbc8c623a\transformed\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\9e421037d36359bbf8fd55ae41edb288\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\335440bf5dae5b638a8f47831412175f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\39aab6f372282d516c6df4bafbe29fb7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\4ae6ff2edeb8a5be4de0a443736a9ad4\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\c4b2d083701b5fd90f75e61b0cc34a17\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\092b01c52a5baf7d792b7e4c25f5832f\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\03b3dba54f5429a2938c03121f07d8b1\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\d3910b11b31a729c1930a33a60085343\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\22128627c99fd7af457fc84efb4355f9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\95c37e2b4f863a5433cea7180cd509f1\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:14:5-32:19
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Souvik Kar\.gradle\caches\transforms-3\223b5b5afffd82e5115a1ae3be7c095e\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Souvik Kar\.gradle\caches\transforms-3\223b5b5afffd82e5115a1ae3be7c095e\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cfdc6dff071fc329bd23055f50a0f4a\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cfdc6dff071fc329bd23055f50a0f4a\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1d6aaa93075b0555027b4de81b9b700a\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1d6aaa93075b0555027b4de81b9b700a\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1b6b92d5ecb3f695923f620356c86564\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1b6b92d5ecb3f695923f620356c86564\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f447761f1d2a20db9c38b014abe9d8e4\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f447761f1d2a20db9c38b014abe9d8e4\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\6e21913bf78215f9b5bf45e27bf1c45f\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\6e21913bf78215f9b5bf45e27bf1c45f\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cca0fef424a54a7faf455dabda67ca4\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cca0fef424a54a7faf455dabda67ca4\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f64d32a8fa7b7dfee866f2afbc8c623a\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f64d32a8fa7b7dfee866f2afbc8c623a\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\39aab6f372282d516c6df4bafbe29fb7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\39aab6f372282d516c6df4bafbe29fb7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f64d32a8fa7b7dfee866f2afbc8c623a\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.weatherapp.activities.MainActivity
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:screenOrientation
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:23:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\cdba209f63b6f9bce46a8f3e46117c90\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\cdba209f63b6f9bce46a8f3e46117c90\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Souvik Kar\.gradle\caches\transforms-3\223b5b5afffd82e5115a1ae3be7c095e\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\Souvik Kar\.gradle\caches\transforms-3\223b5b5afffd82e5115a1ae3be7c095e\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cfdc6dff071fc329bd23055f50a0f4a\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cfdc6dff071fc329bd23055f50a0f4a\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\ff1ee2c13c026074f30816f107cce194\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\ff1ee2c13c026074f30816f107cce194\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1d6aaa93075b0555027b4de81b9b700a\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1d6aaa93075b0555027b4de81b9b700a\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1b6b92d5ecb3f695923f620356c86564\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\1b6b92d5ecb3f695923f620356c86564\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\3d8b3864a5a7d15e7dd56e66575a1630\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\3d8b3864a5a7d15e7dd56e66575a1630\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f447761f1d2a20db9c38b014abe9d8e4\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f447761f1d2a20db9c38b014abe9d8e4\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\6e21913bf78215f9b5bf45e27bf1c45f\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\6e21913bf78215f9b5bf45e27bf1c45f\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cca0fef424a54a7faf455dabda67ca4\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cca0fef424a54a7faf455dabda67ca4\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\2389a8b9b45744de18ffa23331f3d4e5\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\2389a8b9b45744de18ffa23331f3d4e5\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\403f144436fd435577e72893d028597e\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\403f144436fd435577e72893d028597e\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\ace0ed459e4c719363d1966b655b65d3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\ace0ed459e4c719363d1966b655b65d3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\04be6288f576f3694a3edafd194dcafd\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\04be6288f576f3694a3edafd194dcafd\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\4f65858ab6d0edd0ec9297104d6cbfcc\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\4f65858ab6d0edd0ec9297104d6cbfcc\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\32554eb0fd01e8ce273d1f7995499556\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\32554eb0fd01e8ce273d1f7995499556\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a6a0ef81db73df9e4cf2fb5df4ecf246\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a6a0ef81db73df9e4cf2fb5df4ecf246\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\3710be4ae84c93516a059500f6cd9f5f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\3710be4ae84c93516a059500f6cd9f5f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\6e50cd4b825eb0080c5d8e0c22308342\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\6e50cd4b825eb0080c5d8e0c22308342\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a8ae159eef6139059e1dff2047e6b02d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a8ae159eef6139059e1dff2047e6b02d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\d3b88f60ffc448ffb7fc0fa2ab74690a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\d3b88f60ffc448ffb7fc0fa2ab74690a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a771ddc76a7af1f2104b5299c3da9f2c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\a771ddc76a7af1f2104b5299c3da9f2c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f64d32a8fa7b7dfee866f2afbc8c623a\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\f64d32a8fa7b7dfee866f2afbc8c623a\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\9e421037d36359bbf8fd55ae41edb288\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\9e421037d36359bbf8fd55ae41edb288\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\335440bf5dae5b638a8f47831412175f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\335440bf5dae5b638a8f47831412175f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\39aab6f372282d516c6df4bafbe29fb7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\39aab6f372282d516c6df4bafbe29fb7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\4ae6ff2edeb8a5be4de0a443736a9ad4\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\4ae6ff2edeb8a5be4de0a443736a9ad4\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\c4b2d083701b5fd90f75e61b0cc34a17\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\c4b2d083701b5fd90f75e61b0cc34a17\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\092b01c52a5baf7d792b7e4c25f5832f\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\092b01c52a5baf7d792b7e4c25f5832f\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\03b3dba54f5429a2938c03121f07d8b1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\03b3dba54f5429a2938c03121f07d8b1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\d3910b11b31a729c1930a33a60085343\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\d3910b11b31a729c1930a33a60085343\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\22128627c99fd7af457fc84efb4355f9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\22128627c99fd7af457fc84efb4355f9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\95c37e2b4f863a5433cea7180cd509f1\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\95c37e2b4f863a5433cea7180cd509f1\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Development\Kotlin\WeatherApp\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.0.1] C:\Users\Souvik Kar\.gradle\caches\transforms-3\223b5b5afffd82e5115a1ae3be7c095e\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.0.1] C:\Users\Souvik Kar\.gradle\caches\transforms-3\223b5b5afffd82e5115a1ae3be7c095e\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.0.1] C:\Users\Souvik Kar\.gradle\caches\transforms-3\223b5b5afffd82e5115a1ae3be7c095e\transformed\jetified-dexter-6.0.1\AndroidManifest.xml:28:13-60
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\8747b5f1ed4091758422a3e463aff2b9\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cca0fef424a54a7faf455dabda67ca4\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cca0fef424a54a7faf455dabda67ca4\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Souvik Kar\.gradle\caches\transforms-3\0cca0fef424a54a7faf455dabda67ca4\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
